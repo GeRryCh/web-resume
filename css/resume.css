@@ -171,6 +171,10 @@ a {
   color: #BD5D38;
 }
 
+.resume-content a {
+  color: inherit;
+}
+
 a:hover, a:focus, a:active {
   color: #824027;
 }
