@@ -1,0 +1,22 @@
+{
+  "name": "web-resume",
+  "version": "1.0.0",
+  "description": "German's CV in web format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeRryCh/my-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeRryCh/my-resume/issues"
+  },
+  "homepage": "https://github.com/GeRryCh/my-resume#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
