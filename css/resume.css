@@ -100,11 +100,14 @@ ul {
   background-color: #bd5d38;
 }
 
+.list-inline-item {
+  display: inline-flex;
+}
 .dev-icons {
   font-size: 3rem;
 }
 
-.dev-icons .list-inline-item i:hover {
+.list-inline-item i:hover {
   color: #bd5d38;
 }
 
