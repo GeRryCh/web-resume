@@ -57,6 +57,11 @@ ul {
   font-weight: 400;
 }
 
+.mb-5,
+.my-5 {
+  margin-bottom: 3rem !important;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
@@ -154,9 +159,17 @@ ul {
 }
 
 section.resume-section {
-  padding-top: 5rem !important;
-  padding-bottom: 5rem !important;
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   max-width: 75rem;
+}
+
+section.resume-section .resume-section-content {
+  width: 100%;
 }
 
 section.resume-section .resume-item .resume-date {
