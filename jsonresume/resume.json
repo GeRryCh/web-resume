@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "German Velibekov",
+    "label": "Senior Mobile Developer",
+    "picture": "",
+    "email": "german.velibekov@gmail.com",
+    "phone": "(+972)-54-725-84-64",
+    "website": "https://gerrych.github.io/web-resume/",
+    "summary": "I am a Software Developer with eight years of experience, who has proven background in designing and implementing complex apps and systems. I have expert knowledge of the SW development life cycle, including design, coding, testing, debugging, deployment and maintenance. I'm highly self-organized, with a proven ability to handle full SW development/release cycle, and particularly passionate about app architectures and automation of work processes. I'm keen on sharing my knowledge with the rest of the programming community through articles on Medium , as well as contributing to the open source projects on GitHub. I'm a quick learner with a thirst to expand my already vast knowledge, and I excel at conceptualizing and implementing new and innovative ideas to help organisations reach their goals.",
+    "location": {
+      "address": "Hertzl Blvd. 40",
+      "postalCode": "9614102",
+      "city": "Jerusalem",
+      "countryCode": "IL"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "germanvvelibekov",
+        "url": "https://www.linkedin.com/in/germanvvelibekov/"
+      },
+      {
+        "network": "Medium",
+        "username": "@german.velibekov_7849",
+        "url": "https://medium.com/@german.velibekov_7849"
+      },
+      {
+        "network": "GitHub",
+        "username": "GeRryCh",
+        "url": "https://github.com/GeRryCh"
+      },
+      {
+        "network": "Twitter",
+        "username": "GeRyCsH",
+        "url": "https://twitter.com/GeRyCsH"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bank Hapoalim Ltd.",
+      "position": "Lead iOS Developer",
+      "website": "https://www.linkedin.com/company/bank-hapoalim/",
+      "startDate": "2019-09",
+      "summary": "Leading an iOS development as part of a technical team, providing a cross-application solutions across the bank products and successfully integrating it into existing systems."
+    },
+    {
+      "company": "PayKey Ltd.",
+      "position": "Senior iOS Developer",
+      "website": "https://www.paykey.com",
+      "startDate": "2018-07",
+      "endDate": "2019-09",
+      "summary": "Acted as technical lead for the development of an enterprise level framework for pipelining of application customization for different customers. Lead the development of solution architecture of main company product."
+    },
+    {
+      "company": "WishTrip",
+      "position": "Senior iOS Developer & Team Lead",
+      "website": "https://www.wishtrip.com",
+      "startDate": "2016-12",
+      "endDate": "2018-07",
+      "summary": "Developed the company flagship product and managed a small team of developers, including training new starters, allocating tasks, determining project timeframes, conducting performance reviews, and motivating the team to meet deadlines and achieve higher quality results."
+    },
+    {
+      "company": "AGAT Software",
+      "position": "Software Developer",
+      "website": "https://www.wishtrip.com",
+      "startDate": "2012-05",
+      "endDate": "2016-12",
+      "summary": "Contributed to a key organisation products and created multiple mobile applications from zero, taking role of a leading mobile developer in company. Created main workflows inside the mobile department, as part of a constant and productive work with clients."
+    }
+  ],
+  "education": [
+    {
+      "institution": "JCT College of Engineering, Jerusalem",
+      "area": "Finance",
+      "studyType": "Master of Business Administration (MBA)",
+      "startDate": "2015",
+      "endDate": "2017"
+    },
+    {
+      "institution": "JCT College of Engineering, Jerusalem",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2008",
+      "endDate": "2012"
+    }
+  ],
+  "skills": [
+    {
+      "name": "iOS Development",
+      "level": "Master",
+      "keywords": ["Swift", "Objective-C", "Xcode", "Java"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": ["HTML", "CSS", "Javascript", "React", "Node.js"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hebrew",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": ["Recording", "Playing"]
+    },
+    {
+      "name": "Sports",
+      "keywords": ["Running", "Football"]
+    }
+  ]
+}
