@@ -6,7 +6,7 @@
     "email": "german.velibekov@gmail.com",
     "phone": "(+972)-54-725-84-64",
     "website": "https://gerrych.github.io/web-resume/",
-    "summary": "I am a Software Developer with eight years of experience, who has proven background in designing and implementing complex apps and systems. I have expert knowledge of the SW development life cycle, including design, coding, testing, debugging, deployment and maintenance. I'm highly self-organized, with a proven ability to handle full SW development/release cycle, and particularly passionate about app architectures and automation of work processes. I'm keen on sharing my knowledge with the rest of the programming community through articles on Medium , as well as contributing to the open source projects on GitHub. I'm a quick learner with a thirst to expand my already vast knowledge, and I excel at conceptualizing and implementing new and innovative ideas to help organisations reach their goals.",
+    "summary": "Throughout my career as a client software developer, I have gained expert knowledge of the SW development lifecycle, including design, coding, testing, debugging, deployment and maintenance. With a focus on robust system architectures and automation of work processes, my job is to create fully-tested, sustainable and client-oriented applications. I am always keen to share my vast experience by writing blog posts, and I constantly stay abreast of the latest work by other professionals to ensure my work continues improving to achieve the best possible quality.",
     "location": {
       "address": "Hertzl Blvd. 40",
       "postalCode": "9614102",
@@ -42,14 +42,7 @@
       "position": "Lead iOS Developer",
       "website": "https://www.linkedin.com/company/bank-hapoalim/",
       "startDate": "2019-09",
-      "summary": "Leading an iOS development as part of a technical team, providing a cross-application solutions across the bank products and successfully integrating it into existing systems.",
-      "highlights": [
-        "- Creating a full documented iOS framework from scratch, including automated release cycle",
-        "- Writing technical articles related to Swift language and iOS development",
-        "- Open-sourcing part of the solutions created during the development process",
-        "- Consulting other teams for their products across the company",
-        "- Refactored the whole user authentication process into one easy-to-use SDK. Now, any applicaiton using auth doesn't have to deal with a complexity of the authentication process, but only integrate the newly created SDK and call its API"
-      ]
+      "summary": "Leading an iOS development team, providing a cross-application solutions across the bank products and successfully integrating it into existing systems."
     },
     {
       "company": "PayKey Ltd.",
@@ -57,12 +50,7 @@
       "website": "https://www.paykey.com",
       "startDate": "2018-07",
       "endDate": "2019-09",
-      "summary": "Acted as technical lead for the development of an enterprise level framework for pipelining of application customization for different customers. Lead the development of solution architecture of main company product.",
-      "highlights": [
-        "- Led the architecture and development of a new framework that replaced all old libraries with a robust overarching library for the entire project",
-        "- Worked on in-house Native iOS app-extension (keyboard) for mobile banking",
-        "- Reduced time to customize a full product from month to 2.5 weeks"
-      ]
+      "summary": "Acted as technical lead for the development of an enterprise level framework for pipelining of application customization for different customers. Lead the development of solution architecture of main company product."
     },
     {
       "company": "WishTrip",
@@ -70,16 +58,7 @@
       "website": "https://www.wishtrip.com",
       "startDate": "2016-12",
       "endDate": "2018-07",
-      "summary": "Developed the company flagship product and managed a small team of developers, including training new starters, allocating tasks, determining project timeframes, conducting performance reviews, and motivating the team to meet deadlines and achieve higher quality results.",
-      "highlights": [
-        "- Delivering high-quality client-side application features on time to customers, taking full responsibility for the development lifecycle",
-        "- Wrote code, investigated new technologies and approaches, developed new features, and worked closely with all relevant parties to achieve full understanding of business needs, objectives, challenges and limitations",
-        "- Coordinated Sprint assignments and directed weekly team meetings to monitor progress and set direction for best results",
-        "- Leading the team to a successful release of application first beta version to App Store",
-        "- Developing key selling features of the application",
-        "- Major code refactoring dividing Backend call layer into Front-end microservices",
-        "- Released a first version of the app to the App Store"
-      ]
+      "summary": "Developed the company flagship product and managed a small team of developers, including training new starters, allocating tasks, determining project timeframes, conducting performance reviews, and motivating the team to meet deadlines and achieve higher quality results."
     },
     {
       "company": "AGAT Software",
@@ -87,21 +66,7 @@
       "website": "https://www.wishtrip.com",
       "startDate": "2012-05",
       "endDate": "2016-12",
-      "summary": "Contributed to a key organisation products and created multiple mobile applications from zero, taking role of a leading mobile developer in company. Created main workflows inside the mobile department, as part of a constant and productive work with clients.",
-      "highlights": [
-        "- Developed iOS and Android versions of an enterprise mobile application for secure login, which was installed on employees’ devices to act as multi-factor authentication for Skype for Business suite",
-        "- Developed a mobile application which formed part of flagship product - SphereShield",
-        "- Developed an iPad application for Car Rent services - WeMakeIt",
-        "- Developed an iOS & Android native applications for digitally signing documents using Bluetooth card reader for user authentication",
-        "- Developed a mobile application which formed part of flagship product - SphereShield",
-        "- Integrated leading MDM vendors SDKs into application client side, enabling access-based device security restrictions and blocking access for non-compliant devices",
-        "- Managed relationships with vendors' (MobileIron, Citrix) support teams",
-        "- Developed a cross-platform mobile application for providing useful information to citizens abroad",
-        "- Contributed to development of TopoMap & ShvilNet navigation mobile applications",
-        "- Developed In-App Purcahse features into TopoMap and Shvilnet apps which increased income from the App Store.",
-        "- WeMakeIt application was successfully distributed across numerous amount of companies. It led to contract extension with the client and a vast income for the company.",
-        "- The digital-sign app was the first of its kind, and served as a proof for technological capability of smart-ID digital signature on smartphones."
-      ]
+      "summary": "Contributed to a key organisation products and created multiple mobile applications from zero, taking role of a leading mobile developer in company. Created main workflows inside the mobile department, as part of a constant and productive work with clients."
     }
   ],
   "education": [
