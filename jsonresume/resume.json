@@ -37,11 +37,19 @@
     ]
   },
   "work": [
+  	{
+      "company": "Houzz",
+      "position": "iOS  Software Developer",
+      "website": "https://www.houzz.com/",
+      "startDate": "2021-04",
+      "summary": "Being involved in both CRM and Infra team, I have had the opportunity of developing the internal tools and supporting the technical team, as well developing client solutions, and lecturing on technical company meetups."
+    },
     {
       "company": "Bank Hapoalim Ltd.",
       "position": "Lead iOS Developer",
       "website": "https://www.linkedin.com/company/bank-hapoalim/",
       "startDate": "2019-09",
+      "endDate": "2021-03",
       "summary": "Leading an iOS development team, providing a cross-application solutions across the bank products and successfully integrating it into existing systems."
     },
     {
