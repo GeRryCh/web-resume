@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "German Velibekov",
-    "label": "Senior Mobile Developer",
+    "label": "iOS Developer",
     "picture": "",
     "email": "german.velibekov@gmail.com",
     "phone": "(+972)-54-725-84-64",
@@ -30,14 +30,14 @@
         "url": "https://github.com/GeRryCh"
       },
       {
-        "network": "Twitter",
-        "username": "GeRyCsH",
-        "url": "https://twitter.com/GeRyCsH"
+        "network": "Podcast",
+        "username": "Our HiTech",
+        "url": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NTdiYTljYy9wb2RjYXN0L3Jzcw=="
       }
     ]
   },
   "work": [
-  	{
+    {
       "company": "Houzz",
       "position": "iOS  Software Developer",
       "website": "https://www.houzz.com/",
